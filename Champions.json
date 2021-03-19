@@ -1,0 +1,70 @@
+{
+  "AppVersion": "0.3",
+  "translated":"RU USA UK",
+  "Russian":[
+    {
+      "id": "0",
+      "PlayerName": "KostyanLukos",
+      "Description":""
+    },
+    {
+      "id": "1",
+      "PlayerName": "Одноглазый Джо",
+      "Description":""
+      
+    },
+    {
+      "id": "2",
+      "PlayerName": "MrFatesHand",
+      "Description":""
+    },
+    {
+      "id": "3",
+      "PlayerName": "Тощий Ник",
+      "Description":""
+    }],
+    "English":[
+    {
+      "id": "0",
+      "PlayerName": "Lukos",
+      "Description":""
+    },
+    {
+      "id": "1",
+      "PlayerName": "One Eyed Joe",
+      "Description":""
+      
+    },
+    {
+      "id": "2",
+      "PlayerName": "MrFatesHand",
+      "Description":""
+    },
+    {
+      "id": "3",
+      "PlayerName": "Skinny Nick",
+      "Description":""
+    }],
+    "Spanish":[
+    {
+      "id": "0",
+      "PlayerName": "Lukos",
+      "Description":""
+    },
+    {
+      "id": "1",
+      "PlayerName": "Joe de un ojo",
+      "Description":""
+      
+    },
+    {
+      "id": "2",
+      "PlayerName": "MrFatesHand",
+      "Description":""
+    },
+    {
+      "id": "3",
+      "PlayerName": "Nick flaco",
+      "Description":""
+    }]
+}
